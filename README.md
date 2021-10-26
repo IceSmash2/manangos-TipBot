@@ -137,7 +137,7 @@ or send all your balance:
 
   
 
-*Note that the address you are sending to must have a trustline with Manangos address on Stellar (GAB4YW6ZBV73IFQDSVYGKOXTLWX67LUDXRAXHUW2U5EXIFCMAWYHEHL7) and you cannot send from an exchange wallet.*
+*Note that the address you are sending to must have a trustline with Manangos address on Stellar (GCAD56MX3VL4YE3KIXPOWOMHTQYJOPYP7UQUQ2CAJQV4NYZ3566CAGKM) and you cannot send from an exchange wallet.*
 
   
 
