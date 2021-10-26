@@ -210,22 +210,23 @@ To deactivate, simply PM
 
 ### Here's a few other great links:
 
-  
+[Manangos Discord](https://discord.gg/eJNeAwHY)
 
 [Manangos Subreddit](https://reddit.com/r/Manangos) -- Post any questions about Manangos
 
-  
+[Ananos Subreddit](https://reddit.com/r/ananos) -- Post any questions about Ananos 
 
 [Banano Subreddit](https://reddit.com/r/banano) -- Post any questions about Banano
 
+[Anano/Manango Marketplace](https://www.reddit.com/r/AnanosMarketplace) -- Buy, Sell, Trade & Swap: Ananos, Manangos, Or TODD Tokens
+
+[Anano Tipper GitHub](https://github.com/swartbeens/ananos-stellar-reddit-tipbot) -- This software is open source!
+
   
 
-[Banano Tipper GitHub](https://github.com/BananoCoin/banano_reddit_tipbot) -- This software is open source!
+[ANANO](https://ananos.tk/) -- The Official Anano website
 
-  
-
-[BANANO](https://banano.cc) -- The Official BANANO website
-
+[MANANGOS](https://manangos.tk/) -- The Official MANANGOS website
   
   
   
