@@ -108,7 +108,7 @@ To send 1 Manangos to Angelscry74, include this text in the message body:
 
   
 
-`send 1 !Manangos`
+`send 1 !Mango`
 
   
   
@@ -224,9 +224,9 @@ To deactivate, simply PM
 
   
 
-[ANANO](https://ananos.tk/) -- The Official Anano website
+[ANANO](https://ananos.tk/) -- Official Anano website
 
-[MANANGOS](https://manangos.tk/) -- The Official MANANGOS website
+[MANANGOS](https://manangos.tk/) -- Official MANANGOS website
   
   
   
