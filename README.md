@@ -53,7 +53,7 @@ On supported subreddits, you can send a tip like this:
 
   
 
-`!Manangos 1 Excellent!`
+`!Manangos 1 `
 
   
 
@@ -65,7 +65,7 @@ This will tip a redditor 1 Manangos. !Manangos <amount> must be the first thing 
 
   
 
-`Excellent! !Manangos 1`
+`It's like magic !Manangos 1`
 
   
 
@@ -150,7 +150,7 @@ There are many other commands.
 'create' - Create a new account if one does not exist
 'help' - Get this help message 
 'history <optional: number of records>' - Retrieves tip bot commands.  
-'send <amount or all, optional: Currency> <user/address>' - Send Manangosto a reddit user or an address  
+'send <amount or all, optional: Currency> <user/address>' - Send Manangos to a reddit user or an address  
 'silence <yes/no>' - (default 'no') Prevents the bot from sending you tip notifications or tagging in posts  
 'subreddit <subreddit> <'activate'/'deactivate'> <option>' - Subreddit Moderator Controls - Enabled Tipping on Your Sub (`silent`, `full`)  
 'opt-out' - Disables your account.  
@@ -163,13 +163,13 @@ There are many other commands.
 
   
 
-If you are a moderator of a subreddit, and would like to tipping to your sub, use the `subreddit` command. For example, to activate tipping on the r/banano subreddit, I send a PM to the bot saying:
+If you are a moderator of a subreddit, and would like to tipping to your sub, use the `subreddit` command. For example, to activate tipping on the r/Manangos subreddit, I send a PM to the bot saying:
 
   
 
   
 
-`subreddit banano activate`
+`subreddit manango activate`
 
   
 
@@ -185,7 +185,7 @@ This will allow the bot to look for !Manangos commands and respond to posts in t
 
   
 
-`subreddit banano activate silent`
+`subreddit manango activate silent`
 
   
   
@@ -200,7 +200,7 @@ To deactivate, simply PM
 
   
 
-`subreddit banano deactivate`
+`subreddit manango deactivate`
 
   
 
