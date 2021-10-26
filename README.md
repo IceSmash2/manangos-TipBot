@@ -11,7 +11,7 @@
 
   
 
-It is a fork of and modification of the [Ananos](https://ananos.tk/) reddit tip bot created by /u/Rambamtyphus & [swartbeens](https://github.com/swartbeens) - which is available on [GitHub](https://github.com/swartbeens/ananos-stellar-reddit-tipbot).
+It is a fork of and modification of the [Ananos](https://ananos.tk/) reddit tip bot created by /u/RamBamTyfus & [swartbeens](https://github.com/swartbeens) - which is available on [GitHub](https://github.com/swartbeens/ananos-stellar-reddit-tipbot).
 
 Which is a fork and modification of the [Banano](https://banano.cc) reddit tip bot created by /u/bbedward - which is available on [GitHub](https://github.com/BananoCoin/banano_reddit_tipbot).
 
