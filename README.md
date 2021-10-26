@@ -1,11 +1,11 @@
 
+
+
+  # Manangos Stellar Reddit tip bot 
+
   
 
-# Ananos Stellar Reddit tip bot 
-
-  
-
-...is a reddit tipping service to easily give (Stellar) Ananos to your favorite redditors! [Ananos](https://ananos.tk) is a feeless, instant, rich in vitamin C cryptocurrency. Before using Ananos Tipper, please take a look at the [Terms of Service](https://github.com/swartbeens/ananos-stellar-reddit-tipbot#terms-of-service).
+...is a reddit tipping service to easily give (Stellar) Manangos to your favorite redditors! [Manangos](https://Manangos.tk) is a feeless, instant, rich in vitamin C cryptocurrency. Before using Manangos Tipper, please take a look at the [Terms of Service](https://github.com/swartbeens/Manangos-stellar-reddit-tipbot#terms-of-service).
 
   
 
@@ -17,11 +17,11 @@ It is a fork and modification of the [Banano](https://banano.cc) reddit tip bot 
 
   
 
-### To get started with the Ananos tip bot, either:
+### To get started with the Manangos tip bot, either:
 
   
 
-A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=ananos_tipbot&subject=command&message=create) to /u/ananos_tipbot with 'create' or 'register' in the message body.
+A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=create) to /u/Manangos_tipbot with 'create' or 'register' in the message body.
 
   
 
@@ -29,11 +29,11 @@ A) **Create an account** by [sending a message](https://reddit.com/message/compo
 
   
 
-B) **Receive an Ananos tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=ananos_tipbot&subject=command&message=create) to /u/ananos_tipbot.
+B) **Receive an Manangos tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=create) to /u/Manangos_tipbot.
 
   
 
-Once you have funds in your account, you can tip other redditors, or send to any Ananos address via PM to /u/ananos_tipbot.
+Once you have funds in your account, you can tip other redditors, or send to any Manangos address via PM to /u/Manangos_tipbot.
 
   
 
@@ -41,7 +41,7 @@ Once you have funds in your account, you can tip other redditors, or send to any
 
   
 
-The Ananos tip bot is intended for tipping small amounts on Reddit posts and replies.
+The Manangos tip bot is intended for tipping small amounts on Reddit posts and replies.
 
   
 
@@ -53,19 +53,19 @@ On supported subreddits, you can send a tip like this:
 
   
 
-`!ananos 1 This is great!`
+`!Manangos 1 Excellent!`
 
   
 
   
 
-This will tip a redditor 1 Ananos. !ananos <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
+This will tip a redditor 1 Manangos. !Manangos <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
 
   
 
   
 
-`This is great! !ananos 1`
+`Excellent! !Manangos 1`
 
   
 
@@ -77,7 +77,7 @@ Or from anywhere on reddit, you can tip a commenter by mentioning the tip bot:
 
   
 
-`/u/ananos_tipbot 1`
+`/u/Manangos_tipbot 1`
 
   
   
@@ -94,26 +94,26 @@ If the subreddit is a friendly subreddit, the bot will respond with a message. I
 
   
 
-The Ananos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=ananos_tipbot&subject=command&message=type_command_here) to /u/ananos_tipbot for a variety of actions.
+The Manangos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=type_command_here) to /u/Manangos_tipbot for a variety of actions.
 
   
 
   
 
-To send 1 Ananos to rambamtyfyus, include this text in the message body:
+To send 1 Manangos to rambamtyfyus, include this text in the message body:
 
   
 
   
 
-`send 1 rambamtyfus`
+`send 1 !Manangos`
 
   
   
 
   
 
-To send 1 Ananos to Stellar address GBB3O7N2VJNRWMGXLZ37BP4SWFE456QCBPOYMT3M6TE6QHIZRMIYWPQB, include this text in the message body:
+To send 1 Manangos to Stellar address GBB3O7N2VJNRWMGXLZ37BP4SWFE456QCBPOYMT3M6TE6QHIZRMIYWPQB, include this text in the message body:
 
   
 
@@ -135,7 +135,7 @@ or send all your balance:
 
   
 
-*Note that the address you are sending to must have a trustline with Ananos address on Stellar (GAB4YW6ZBV73IFQDSVYGKOXTLWX67LUDXRAXHUW2U5EXIFCMAWYHEHL7) and you cannot send from an exchange wallet.*
+*Note that the address you are sending to must have a trustline with Manangos address on Stellar (GAB4YW6ZBV73IFQDSVYGKOXTLWX67LUDXRAXHUW2U5EXIFCMAWYHEHL7) and you cannot send from an exchange wallet.*
 
   
 
@@ -150,7 +150,7 @@ There are many other commands.
 'create' - Create a new account if one does not exist
 'help' - Get this help message 
 'history <optional: number of records>' - Retrieves tip bot commands.  
-'send <amount or all, optional: Currency> <user/address>' - Send Ananosto a reddit user or an address  
+'send <amount or all, optional: Currency> <user/address>' - Send Manangosto a reddit user or an address  
 'silence <yes/no>' - (default 'no') Prevents the bot from sending you tip notifications or tagging in posts  
 'subreddit <subreddit> <'activate'/'deactivate'> <option>' - Subreddit Moderator Controls - Enabled Tipping on Your Sub (`silent`, `full`)  
 'opt-out' - Disables your account.  
@@ -175,7 +175,7 @@ If you are a moderator of a subreddit, and would like to tipping to your sub, us
 
   
 
-This will allow the bot to look for !ananos commands and respond to posts in that subreddit.
+This will allow the bot to look for !Manangos commands and respond to posts in that subreddit.
 
   
 
@@ -210,7 +210,7 @@ To deactivate, simply PM
 
   
 
-[Ananos Subreddit](https://reddit.com/r/ananos) -- Post any questions about Ananos
+[Manangos Subreddit](https://reddit.com/r/Manangos) -- Post any questions about Manangos
 
   
 
@@ -234,11 +234,11 @@ To deactivate, simply PM
 
   
 
-* Do not keep a lot of Ananos in your tip bot account! The tip bot is for tipping small amounts ONLY.
+* Do not keep a lot of Manangos in your tip bot account! The tip bot is for tipping small amounts ONLY.
 
   
 
-* You accept the risks of using this tip bot -- We won't steal your Ananos, but they might be lost at any point, and we are at no obligation to replace them. Don't put in more than you're willing to lose.
+* You accept the risks of using this tip bot -- We won't steal your Manangos, but they might be lost at any point, and we are at no obligation to replace them. Don't put in more than you're willing to lose.
 
   
 
@@ -260,7 +260,7 @@ To deactivate, simply PM
 
   
 
-## Why does the message have to start or end with !ananos<amount>?
+## Why does the message have to start or end with !Manangos<amount>?
 
   
 
@@ -274,7 +274,7 @@ This is to prevent unintentional tips! If the program simply scanned the entire 
 
   
 
-**NO! Unless you and you alone control your private keys, your funds are never safe!** Please don't keep more than a small dose of Ananos on the tip bot at any time! **Use at your own risk!**
+**NO! Unless you and you alone control your private keys, your funds are never safe!** Please don't keep more than a small dose of Manangos on the tip bot at any time! **Use at your own risk!**
 
   
   
@@ -321,7 +321,7 @@ Probably not. It's most likely the bot was temporarily disconnected. If a comman
 
   
 
-Post it on the [Ananos subreddit](https://reddit.com/r/Ananos) .
+Post it on the [Manangos subreddit](https://reddit.com/r/Manangos) .
 
   
 
@@ -339,7 +339,7 @@ If a reddit tip is a reply to a reply, it's better to keep a short message with 
 
   
 
-* 110 - You must specify an amount and a user, e.g. `send 1 ananos_tipbot`.
+* 110 - You must specify an amount and a user, e.g. `send 1 Manangos_tipbot`.
 
   
 
@@ -375,8 +375,8 @@ If a reddit tip is a reply to a reply, it's better to keep a short message with 
 
   
 
-* 210 - Failed to send funds to Stellar address. Check that you have a trustline with Ananos and enough XLM funds.
+* 210 - Failed to send funds to Stellar address. Check that you have a trustline with Manangos and enough XLM funds.
 
 * 220 - Not enough XLM to perform withdrawal.
 
-* 230 - Withdrawal account has no Ananos trustline.
+* 230 - Withdrawal account has no Manangos trustline.
