@@ -1,4 +1,4 @@
-Manangostips
+
 
 
 
@@ -23,7 +23,7 @@ Which is a fork and modification of the [Banano](https://banano.cc) reddit tip b
 
   
 
-A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=create) to /u/Manangos_tipbot with 'create' or 'register' in the message body.
+A) **Create an account** by [sending a message](https://reddit.com/message/compose/?to=/u/Manangostips&subject=command&message=create) to /u/Manangostips with 'create' or 'register' in the message body.
 
   
 
@@ -31,11 +31,11 @@ A) **Create an account** by [sending a message](https://reddit.com/message/compo
 
   
 
-B) **Receive an Manangos tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=create) to /u/Manangos_tipbot.
+B) **Receive an Manangos tip** from a fellow redditor, and you will automatically have an account made! Be sure to activate it afterwards by [sending a message](https://reddit.com/message/compose/?to=/u/Manangostips&subject=command&message=create) to /u/Manangostips.
 
   
 
-Once you have funds in your account, you can tip other redditors, or send to any Manangos address via PM to /u/Manangos_tipbot.
+Once you have funds in your account, you can tip other redditors, or send to any Manangos address via PM to /u/Manangostips.
 
   
 
@@ -79,7 +79,7 @@ Or from anywhere on reddit, you can tip a commenter by mentioning the tip bot:
 
   
 
-`/u/Manangos_tipbot 1`
+`/u/Manangostips 1`
 
   
   
@@ -96,7 +96,7 @@ If the subreddit is a friendly subreddit, the bot will respond with a message. I
 
   
 
-The Manangos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=Manangos_tipbot&subject=command&message=type_command_here) to /u/Manangos_tipbot for a variety of actions.
+The Manangos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=/u/Manangostips&subject=command&message=type_command_here) to /u/Manangostips for a variety of actions.
 
   
 
@@ -341,7 +341,7 @@ If a reddit tip is a reply to a reply, it's better to keep a short message with 
 
   
 
-* 110 - You must specify an amount and a user, e.g. `send 1 Manangos_tipbot`.
+* 110 - You must specify an amount and a user, e.g. `send 1 /u/Manangostips`.
 
   
 
