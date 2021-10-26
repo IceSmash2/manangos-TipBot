@@ -7,7 +7,7 @@
 
   
 
-...is a reddit tipping service to easily give (Stellar) Manangos to your favorite redditors! [Manangos](https://Manangos.tk) is a feeless, instant, rich in vitamin C cryptocurrency. Before using Manangos Tipper, please take a look at the [Terms of Service](https://github.com/swartbeens/Manangos-stellar-reddit-tipbot#terms-of-service).
+...is a reddit tipping service to easily give (Stellar) Manangos to your favorite redditors! [Manangos](https://Manangos.tk) is a feeless, instant, rich in vitamin C cryptocurrency. Before using Manangos Tipper, please take a look at the [Terms of Service](https://github.com/IceSmash2/manangos-TipBot#terms-of-service).
 
   
 
