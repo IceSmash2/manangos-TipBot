@@ -218,7 +218,7 @@ To deactivate, simply PM
 
 [Banano Subreddit](https://reddit.com/r/banano) -- Post any questions about Banano
 
-[Anano/Manango Marketplace](https://www.reddit.com/r/AnanosMarketplace) -- Buy, Sell, Trade & Swap: Ananos, Manangos, Or TODD Tokens
+[Anano/Manango Marketplace](https://www.reddit.com/r/AnanosMarketplace) -- Trade & Swap Ananos, Manangos, Or TODD Tokens
 
 [Anano Tipper GitHub](https://github.com/swartbeens/ananos-stellar-reddit-tipbot) -- This software is open source!
 
