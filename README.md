@@ -177,7 +177,7 @@ If you are a moderator of a subreddit, and would like to tipping to your sub, us
 
   
 
-This will allow the bot to look for !Manangos commands and respond to posts in that subreddit.
+This will allow the bot to look for !Mango commands and respond to posts in that subreddit.
 
   
 
@@ -263,7 +263,7 @@ To deactivate, simply PM
 
   
 
-## Why does the message have to start or end with !Manangos<amount>?
+## Why does the message have to start or end with !Mango<amount>?
 
   
 
