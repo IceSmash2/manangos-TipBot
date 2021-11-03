@@ -171,7 +171,7 @@ If you are a moderator of a subreddit, and would like to tipping to your sub, us
 
   
 
-`subreddit manango activate`
+`subreddit manangos activate`
 
   
 
@@ -187,7 +187,7 @@ This will allow the bot to look for !Mango commands and respond to posts in that
 
   
 
-`subreddit manango activate silent`
+`subreddit manangos activate silent`
 
   
   
@@ -202,7 +202,7 @@ To deactivate, simply PM
 
   
 
-`subreddit manango deactivate`
+`subreddit manangos deactivate`
 
   
 
