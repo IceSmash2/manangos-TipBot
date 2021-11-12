@@ -165,7 +165,7 @@ There are many other commands.
 
   
 
-If you are a moderator of a subreddit, and would like to tipping to your sub, use the `subreddit` command. For example, to activate tipping on the r/Manangos subreddit, I send a PM to the bot saying:
+If you are a moderator of a subreddit, and would like to enable tipping to your sub, use the `subreddit` command. For example, to activate tipping on the r/Manangos subreddit, I send a PM to the bot saying:
 
   
 
