@@ -55,19 +55,19 @@ On supported subreddits, you can send a tip like this:
 
   
 
-`!Mango 1 `
+`!Mangos 1 `
 
   
 
   
 
-This will tip a redditor 1 Manangos. !Mango <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
+This will tip a redditor 1 Manangos. !Mangos <amount> must be the first thing in your message OR the last thing. Such, this is also a valid tip:
 
   
 
   
 
-`It's like magic !Mango 1`
+`It's like magic !Mangos 1`
 
   
 
@@ -108,7 +108,7 @@ To send 1 Manangos to Angelscry74, include this text in the message body:
 
   
 
-`send 1 !Mango`
+`send 1 !Mangos`
 
   
   
