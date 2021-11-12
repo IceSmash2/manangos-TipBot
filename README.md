@@ -286,7 +286,7 @@ This is to prevent unintentional tips! If the program simply scanned the entire 
   
 Unfortunately, Stellar requires fees to send transactions. The tipping happens off-chain to circumvent this. However, the bot needs to pay a small amount of XLM at each withdrawal. 
 You can prevent withdrawal problems and support the bot by donating a little XLM to the bot's address: 
-GBOVBMRWWE7QNHSRCCBO3QM36VUJ3LRQ7GZH6UOQSRLWRUDWUZ5ALTNE.
+GCKEVLXMCCKONS5O63X32OW5S4JMIU75FX7LPXGIZFIGPBUUFNXDFCWU.
 
   
 
