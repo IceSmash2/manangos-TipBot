@@ -14,8 +14,10 @@ CYCLE_TIME = 6
 
 LOGGER.info("Starting tip bot")
 
+
 def main_loop():
     global SUBREDDITS
+    SUBREDDITS = shared.SUBREDDITS
     actions = {
         "message": handle_message,
         "comment": handle_comment,
@@ -52,6 +54,7 @@ def main_loop():
                 SUBREDDITS = shared.SUBREDDITS
         # Handle incoming transactions
         handle_transactions()
+
 
 if __name__ == "__main__":
     main_loop()

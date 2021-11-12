@@ -6,7 +6,7 @@ COMMENT_FOOTER = """\n\n
 ***\n\n
 [*^(Manangos)*](https://www.reddit.com/r/Manangos/)*^( | )*
 [*^(Manangos Tipper)*](https://github.com/IceSmash2/manangos-TipBot)*^( | )*
-[*^(Opt Out)*](https://reddit.com/message/compose/?to=ananos_tipbot&subject=command&message=opt-out)
+[*^(Opt Out)*](https://reddit.com/message/compose/?to=manangostips&subject=command&message=opt-out)
 """
 
 HELP = """
@@ -16,11 +16,11 @@ Help from Stellar Manangos Tipper! This bot handles tips via the Stellar [Manang
 
 If you do not accept the Terms of Service, or do not wish to participate, please respond with the text `opt-out`.\n\n
 
-Manangos Tipper works in two ways -- either publicly tip a user on a subreddit, or send a PM to /u/Ananos_tipbot with a command below.\n\n
+Manangos Tipper works in two ways -- either publicly tip a user on a subreddit, or send a PM to /u/manangostips with a command below.\n\n
 To tip 2 Manangos on a tracked subreddit, add the following to the beginning of end of your comment:\n
-    !ananos 2
+    !mangos 2
 To tip anywhere on reddit, tag the bot as such (it won't post on these subreddits, but it will PM the users):\n
-    /u/Ananos_tipbot 2
+    /u/manangostips 2
 You can tip any amount above the program minimum of 1 Manangos.\n\n
 
 For PM commands, create a new message with any of the following commands (be sure to remove the quotes, '<'s and '>'s):\n
@@ -39,42 +39,42 @@ If you have any questions or bug fixes, please reach out on the [Manangos subred
 The Manangos tip bot is based on the Ananos tipbot. Check out the [Ananos subreddit](https://www.reddit.com/r/Ananos) as well!"""
 
 WELCOME_CREATE = """
-Welcome to Stellar Manangos Tipper, a reddit tip bot which allows you to tip and send the [Ananos](https://Ananos.cc) currency to your favorite redditors! 
+Welcome to Stellar Manangos Tipper, a reddit tip bot which allows you to tip and send the [Manangos](https://manangos.tk/) currency to your favorite redditors! 
 Your account is **active**.\nDeposit Manangos by sending it to the address `%s` using your Manangos deposit memo `%s`. By using this service, you agree 
-to the [Terms of Service](https://github.com/swartbeens/ananos-stellar-reddit-tipbot#terms-of-service).\n\n
+to the [Terms of Service](https://github.com/IceSmash2/manangos-TipBot#terms-of-service).\n\n
 
 If you do not accept the Terms of Service, or do not with to participate, please respond with the text `opt-out`.\n\n
 
 ***\n\n
 Manangos Tipper can be used in two ways. The most common is to tip other redditors publicly by replying to a comment on a tracked subreddit. 
 To tip someone 2 Manangos, reply to their message with:\n\n
-```!ananos 2```\n\n
+```!mangos 2```\n\n
 To tip a redditor on any subreddit, tag the bot instead of issuing a command:\n\n
-```/u/Ananos_tipbot 2```\n\n
+```/u/manangostips 2```\n\n
 ***\n\n
-There are also PM commands by [messaging](https://reddit.com/message/compose/?to=Ananos_tipbot&subject=command&message=type_command_here) /u/Ananos_tipbot. Remove any quotes, <'s and >'s.\n\n
+There are also PM commands by [messaging](https://reddit.com/message/compose/?to=manangostips&subject=command&message=type_command_here) /u/manangostips. Remove any quotes, <'s and >'s.\n\n
 ```send <amount> <valid_stellar_address>``` Withdraw to a Stellar address (must have a trustline with Manangos).\n\n
-```send <amount> <redditor username>``` Send Ananaos to another redditor.\n\n
+```send <amount> <redditor username>``` Send Manangos to another redditor.\n\n
 ```balance``` Check your account balance.\n\n
 ```help``` Receive an in-depth help message.\n\n
 """
 
 WELCOME_TIP = """
-Welcome to Stellar Manangos Tipper, a reddit tip bot which allows you to tip and send the [Manangos](https://ananos.tk) Currency to your favorite redditors! 
+Welcome to Stellar Manangos Tipper, a reddit tip bot which allows you to tip and send the [Manangos](https://manangos.tk/) Currency to your favorite redditors! 
 You have just received a Manangos tip in the amount of %s Manangos.\n\n
-By using this service, you agree to the [Terms of Service](https://github.com/swartbeens/ananos-stellar-reddit-tipbot#terms-of-service).\n\n
+By using this service, you agree to the [Terms of Service](https://github.com/IceSmash2/manangos-TipBot#terms-of-service).\n\n
 
 If you do not accept the Terms of Service, or do not with to participate, please respond with the text `opt-out`.\n\n
 ***\n\n
 Manangos Tipper can be used in two ways. The most common is to tip other redditors publicly by replying to a comment on a tracked subreddit. 
 To tip someone 2 Manangos, reply to their message with:\n\n
-```!ananos 2```\n\n
+```!mangos 2```\n\n
 To tip a redditor on any subreddit, tag the bot instead of issuing a command:\n\n
-```/u/Ananos_tipbot 2```\n\n
+```/u/manangostips 2```\n\n
 ***\n\n
-There are also PM commands by [messaging](https://reddit.com/message/compose/?to=Ananos_tipbot&subject=command&message=type_command_here) /u/Ananos_tipbot. Remove any quotes, <'s and >'s.\n\n
+There are also PM commands by [messaging](https://reddit.com/message/compose/?to=manangostips&subject=command&message=type_command_here) /u/manangostips. Remove any quotes, <'s and >'s.\n\n
 ```send <amount> <valid_stellar_address>``` Withdraw your Manangos to your own Stellar address (must have a trustline with Manangos).\n\n
-```send <amount> <redditor username>``` Send Ananaos to another redditor.\n\n
+```send <amount> <redditor username>``` Send Manangos to another redditor.\n\n
 ```balance``` Check your account balance.\n\n
 ```help``` Receive an in-depth help message.\n\n
 To deposit Manangos in your tip bot account, send some to the tip bot address: `%s`. Be sure to specify your deposit memo `%s`!\n
@@ -157,7 +157,7 @@ SEND_TEXT = {
         "You don't have an account yet. Please PM me with `create` in the body to "
         "make an account."
     ),
-    StatusResponse.SEND_COMMAND_INCORRECT: "You must specify an amount and a user, e.g. `send 1 Ananos_tipbot`.",
+    StatusResponse.SEND_COMMAND_INCORRECT: "You must specify an amount and a user, e.g. `send 1 manangostips`.",
     StatusResponse.SEND_COMMAND_TOO_MANY_ARGS: "Too many arguments specified.",
     StatusResponse.CANNOT_PARSE_AMOUNT: "I could not read the amount. Is '%s' a number?",
     StatusResponse.BELOW_PROGRAM_MINIMUM: "Program minimum is %s Manangos.",
