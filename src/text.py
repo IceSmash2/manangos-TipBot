@@ -33,8 +33,8 @@ For PM commands, create a new message with any of the following commands (be sur
     'opt-out' - Disables your account
     'opt-in' - Re-enables your account 
     'help' - Get this help message\n
-For example, if you wanted to send 25 Manangos to user `rambamtyfus`, reply:\n
-    send 25 rambamtyfus\n    
+For example, if you wanted to send 25 Manangos to user `icesmash1`, reply:\n
+    send 25 icesmash1\n    
 If you have any questions or bug fixes, please reach out on the [Manangos subreddit](https://reddit.com/r/manangos).\n
 The Manangos tip bot is based on the Ananos tipbot. Check out the [Ananos subreddit](https://www.reddit.com/r/Ananos) as well!"""
 
@@ -43,7 +43,7 @@ Welcome to Stellar Manangos Tipper, a reddit tip bot which allows you to tip and
 Your account is **active**.\nDeposit Manangos by sending it to the address `%s` using your Manangos deposit memo `%s`. By using this service, you agree 
 to the [Terms of Service](https://github.com/IceSmash2/manangos-TipBot#terms-of-service).\n\n
 
-If you do not accept the Terms of Service, or do not with to participate, please respond with the text `opt-out`.\n\n
+If you do not accept the Terms of Service, or do not wish to participate, please respond with the text `opt-out`.\n\n
 
 ***\n\n
 Manangos Tipper can be used in two ways. The most common is to tip other redditors publicly by replying to a comment on a tracked subreddit. 
