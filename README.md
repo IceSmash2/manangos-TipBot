@@ -108,7 +108,7 @@ To send 1 Manangos to Angelscry74, include this text in the message body:
 
   
 
-`send 1 !Mangos`
+`send 1 Angelscry74`
 
   
   
@@ -320,7 +320,7 @@ Probably not. It's most likely the bot was temporarily disconnected. If a comman
 
   
 
-## I found a bug or I have a concern. Question Mark?
+## I found a bug or I have a concern?
 
   
 
