@@ -210,7 +210,7 @@ To deactivate, simply PM
 
 ### Here's a few other great links:
 
-[Manangos Discord](https://discord.gg/sNdQkq8YfF) -- Offical Discord Server
+[Manangos Discord](https://discord.com/invite/652AcBHNKa) -- Offical Discord Server
 
 [Manangos Subreddit](https://reddit.com/r/Manangos) -- Post any questions about Manangos
 
