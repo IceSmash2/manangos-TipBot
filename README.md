@@ -96,32 +96,32 @@ If the subreddit is a friendly subreddit, the bot will respond with a message. I
 
   
 
-The Manangos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=/u/Manangostips&subject=command&message=type_command_here) to /u/Manangostips for a variety of actions.
+The Manangos tip bot also works by PM. [Send a message](https://reddit.com/message/compose/?to=/u/Manangostips&subject=command&message=send%20all) to /u/Manangostips for a variety of actions.
 
   
 
   
 
-To send 1 Manangos to Angelscry74, include this text in the message body:
+To send 1 Manangos to MrNoSock, include this text in the message body:
 
   
 
   
 
-`send 1 Angelscry74`
+`send 1 MrNoSock`
 
   
   
 
   
 
-To send 1 Manangos to Stellar address GBQU5Q3YQGC74RL6JGF2ZW5S4CJIPZH753WINCLI6FIZF47CY33OPDHA, include this text in the message body:
+To send 1 Manangos to Stellar address GDTAHVJCTBXL3CK5NML6ZGRLWHYIIM4C5C43T22CP5SO7BJ3SWMLPDM7, include this text in the message body:
 
   
 
   
 
-`send 1 GBQU5Q3YQGC74RL6JGF2ZW5S4CJIPZH753WINCLI6FIZF47CY33OPDHA`
+`send 1 GDTAHVJCTBXL3CK5NML6ZGRLWHYIIM4C5C43T22CP5SO7BJ3SWMLPDM7`
 
   
 
@@ -133,7 +133,7 @@ or send all your balance:
 
   
 
-`send all GBQU5Q3YQGC74RL6JGF2ZW5S4CJIPZH753WINCLI6FIZF47CY33OPDHA`
+`send all GDTAHVJCTBXL3CK5NML6ZGRLWHYIIM4C5C43T22CP5SO7BJ3SWMLPDM7`
 
   
 
@@ -286,7 +286,7 @@ This is to prevent unintentional tips! If the program simply scanned the entire 
   
 Unfortunately, Stellar requires fees to send transactions. The tipping happens off-chain to circumvent this. However, the bot needs to pay a small amount of XLM at each withdrawal. 
 You can prevent withdrawal problems and support the bot by donating a little XLM to the bot's address: 
-GCKEVLXMCCKONS5O63X32OW5S4JMIU75FX7LPXGIZFIGPBUUFNXDFCWU.
+GB2VCFQLME2X2J5BRHETIJAHU22W3SLHV6R5G3AJE3WFKGJTH2EZREOS.
 
   
 
